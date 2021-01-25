@@ -34,6 +34,16 @@
 ;
 ; Again, for *E. Coli* this is about 2 days. You'll be impressed
 ; at how quickly the system
+;
+; ## But why?
+;
+; I wanted to show my kids how quickly blind evolution is able
+; to spread advances in the gene pool, and how it works in
+; practice.
+;
+; It ends up as one screenshot of Clojure, including documentation,
+; so it's not bad.
+;
 
 (def WORLD_SIZE 10000)
 
